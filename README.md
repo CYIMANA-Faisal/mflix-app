@@ -1,3 +1,6 @@
+
+![](test.jpg)
+
 # mflix
 
 This file is a guide to getting started running mflix, an example video
